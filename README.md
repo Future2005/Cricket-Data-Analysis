@@ -32,6 +32,6 @@ Key visualizations in the dashboard include:
 ### 📌 How to Use
 
 * Explore the provided CSV file for your own analysis or modeling.
-* Use the dashboard screenshots as reference for designing similar cricket performance dashboards.
+* Use the dashboard as reference for designing similar cricket performance dashboards.
 * Extend the dataset with your own metrics or integrate additional seasons.
 
